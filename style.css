@@ -1,0 +1,119 @@
+*{  margin: 0px;
+    font-family:"inter";
+}
+
+#titulo-menusuperior{
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+
+#texto-menusuperior{
+    margin-left: 50px;
+    margin-top: 35px;
+    padding-bottom: 100px;
+}
+
+#menusuperior{
+    background-color: #303030;
+    color: white
+    
+}
+
+#menu-informacional{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 50px;
+    
+}
+
+.bolder{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.text{
+    margin-left: 100px;
+}
+
+#menumeio{
+    display: flex;
+    align-items: center;
+
+}
+
+#foto-apartamento{
+    margin-left: 350px;
+}
+
+#titulo-menumeio{
+    margin-left: 100px;
+}
+
+
+#texto-menumeio{
+    margin-left: 100px;
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#titulo-formulario{
+    color: white;
+    font-size: 18px;
+    margin: 25px;
+}
+
+input{
+    text-align: left;
+    width: 290px;
+    height: 53px;
+    border-radius: 10px;
+    font-family: "Raleway";
+    font-size: 15px;
+    margin-bottom: 30px;
+    border: 0px; 
+    padding-left: 16px;
+    color: #000000 30%;
+    font-size: 15px;
+}
+
+button{
+    background-color: #C07212;
+    width: 150px;
+    height: 45px;
+    color: #EAECE5;
+    border: 0px;
+    border-radius: 8px;
+    margin-bottom: 50px;
+    font-weight: "Raleway";
+    cursor: pointer;
+   
+}
+
+button:hover{
+    background-color: #C07212;
+    color: white;
+    transform: translateY(-4px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 20px #63370236;
+    
+}
+
+
+  
+
+
+
+
+
+
+
+ 
+ 
